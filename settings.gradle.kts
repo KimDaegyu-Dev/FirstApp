@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "FirstApp"
 include(":app")
 include(":c74")
-include(":notification:c75")
+include(":c75") // 모듈 경로 수정
